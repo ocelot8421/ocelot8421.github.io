@@ -1,0 +1,145 @@
+/*General template and head below */
+
+html {
+    background-color: rgba(8, 25, 41, 1);
+    color: rgb(255, 255, 255);     
+}
+
+a:link {
+    color: rgb(223, 253, 203);
+}
+
+a:visited {
+    color: rgb(96, 96, 211);
+}
+
+#hhh {
+    position:relative;
+    top: -6.5px;
+    left: 0%;
+    width: 7600px;
+    height: 107px;
+    background-image: url(../img/neuron.jpg);
+    background-position: top left;
+    background-size: 2.5%;    
+    
+}
+#topHeader1 {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 380px;
+    height: 120px;
+    background-color: rgba(8, 25, 41, 0.98);
+    border-bottom-width: 1.5px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(71, 131, 131, 0.98);
+}
+
+#topHeader2 {
+    position: fixed;
+    top: 0px;
+    left: 380px;
+    width: 380px;
+    height: 120px;
+    background-color: rgba(8, 25, 41, 0.915);
+    border-bottom-width: 1.5px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(42, 158, 158, 0.85);
+}
+
+#topHeader3 {
+    position: fixed;
+    top: 0px;
+    left: 760px;
+    width: 380px;
+    height: 120px;
+    background-color: rgba(8, 25, 41, 0.90);
+    border-bottom-width: 1.5px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(71, 131, 131, 0.8);
+}
+
+#topHeader4 {
+    position: fixed;
+    top: 0px;
+    left: 1140px;
+    width: 380px;
+    height: 120px;
+    background-color: rgba(8, 25, 41, 0.85);
+    border-bottom-width: 1.5px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(71, 131, 131, 0.7);
+}
+
+#topHeader5 {
+    position: fixed;
+    top: 0px;
+    left: 1520px;
+    width: 380px;
+    height: 120px;
+    background-color: rgba(8, 25, 41, 0.80);
+    border-bottom-width: 1.5px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(71, 131, 131, 0.6);
+}
+#topHeader6 {
+    position: fixed;
+    top: 0px; 
+    left: 1900px;
+    width: 5700px;
+    height: 120px;
+    background-color: rgba(8, 25, 41, 0.75);
+    border-bottom-width: 1.5px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(71, 131, 131, 0.5);
+}
+#corner{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 17%;
+}
+#cornerpic{
+    height: 120px;
+}
+#cornerlinks{
+    position: fixed;
+    top: 0px;
+    left: 110px;    
+}
+/*General template and head above */
+
+@font-face {
+    font-family: "indiee";
+    src: url(font/IndieFlower-Regular.ttf);
+    font-weight: 500;
+}
+
+
+h1 {
+    font-family: "indiee", 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+
+#indexlinkgames {
+    position: relative;
+    top: 25px;
+    left: -7.8%;
+}
+
+
+thead {
+    text-align: left;
+}
+
+.játéktábla {
+    font-family: "indiee";
+    font-weight: 400;
+}
+
+.játéktáblaoszlopcím {
+    font-family: "indiee";
+    font-weight: 600;
+}
+

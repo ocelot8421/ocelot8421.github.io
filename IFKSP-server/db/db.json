@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Gibbon Mo",
+      "email": "gib@gmail.com"
+    },
+    {
+      "name": "Gibbon Mo",
+      "email": "gib@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Gibbon Mo",
+      "email": "gib@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Gibbon Mo",
+      "email": "gib@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Gibbon Mo",
+      "email": "gib@gmail.com",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "userId": 1
+    }
+  ]
+}
